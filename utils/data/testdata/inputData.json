@@ -1,0 +1,41 @@
+{
+    "signUpDetails" : {
+        "name" : "AutomationUser",
+        "emailAddress" : "automationuser",
+        "password" : "Automation@123",
+        "day" : "15",
+        "month" : "July",
+        "year" : "2000",
+        "firstName" : "Automation",
+        "lastName" : "User",
+        "company" : "Coorporate company",
+        "address" : "Coorporate colony",
+        "country" : "India",
+        "state": "Telangana",
+        "city" : "Hyderabad",
+        "zipCode": "502645",
+        "mobileNumber" : "486295483"
+    },
+    "addReviewDetails" : {
+        "name" : "AutomationUser",
+        "email" : "automationuser@gmail.com",
+        "reviewMessage" : "Adding random review message"
+    },
+    "contactUsDetails" : {
+        "name": "AutomationUser",
+        "email": "automationuser@gmail.com",
+        "subject": "Test",
+        "message": "Adding random message in contact us page",
+        "filepath": "utils/data/contactUsPageFile.txt"
+    },
+    "downloadInvoiceDetails" : {
+        "reviewMessage" : "Adding review message in place order page",
+        "paymentDetails" : {
+            "cardHolderName" : "automation tester",
+            "cardNumber" : "4111 1111 1111",
+            "cvc" : "386",
+            "expiryMonth": "11",
+            "expiryYear": "2029"
+        }
+    }
+}
